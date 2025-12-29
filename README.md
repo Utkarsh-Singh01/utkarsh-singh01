@@ -40,19 +40,18 @@
 
 ---
 
-## 🏆 Achievements & Contribution Stats
+## 🏆 Achievements & Badges
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)
+![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-008000?style=for-the-badge)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=utkarsh-singh01&theme=radical&no-frame=true&no-bg=true&column=5)
 
-**Open-Source & Hacktoberfest Achievements**  
-![Hacktoberfest Super Contributor](https://img.shields.io/badge/Hacktoberfest-Super%20Contributor-ff69b4?style=for-the-badge)  
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)  
-![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-008000?style=for-the-badge)
-
 **Contribution Breakdown:**  
-![Commits](https://img.shields.io/badge/Commits-1200-green)  
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-56-blue)  
-![Issues](https://img.shields.io/badge/Issues-1-orange)  
+![Commits](https://img.shields.io/badge/Commits-1200-green)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-56-blue)
+![Issues](https://img.shields.io/badge/Issues-1-orange)
 ![Code Reviews](https://img.shields.io/badge/Code%20Reviews-18-purple)
 
 ---
@@ -70,6 +69,6 @@ Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarsh-singh01)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarsh-singh01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C0FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://utkarsh-singh01.github.io/LeetCode-Data/)
