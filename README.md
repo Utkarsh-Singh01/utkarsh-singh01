@@ -55,7 +55,15 @@ Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements & Contribution Stats
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=utkarsh-singh01&theme=radical&no-frame=true&no-bg=true&column=5)  
+
+**Contribution Breakdown**  
+![Commits](https://img.shields.io/badge/Commits-1200-green)  
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-56-blue)  
+![Issues](https://img.shields.io/badge/Issues-1-orange)  
+![Code Reviews](https://img.shields.io/badge/Code%20Reviews-18-purple)  
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge)  
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)  
