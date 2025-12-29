@@ -4,7 +4,7 @@
 
 💻 Building interactive, scalable web apps with **React, Node.js, MongoDB** & **JavaScript**  
 🌱 Actively contributing to **open-source projects** and mentoring student tech communities  
-📊 Experienced in **data visualization, 3D web apps**, and **MERN stack development**
+📊 Experienced in **data visualization, 3D web apps**, and **MERN stack development**  
 
 ---
 
@@ -46,12 +46,20 @@ Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contribution Graphs
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-singh01&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh01&layout=compact&theme=radical)
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-singh01&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh01&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-singh01&theme=radical)  
+![GitHub Contribution Graph](https://ghchart.rshah.org/utkarsh-singh01)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-singh01&theme=radical)
+---
+
+## 🏆 Achievements & Badges
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge)  
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)  
+![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-008000?style=for-the-badge)  
 
 ---
 
