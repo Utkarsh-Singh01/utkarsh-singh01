@@ -39,6 +39,18 @@ with a strong focus on **clean UI, state management, and real-world use cases**.
 
 ---
 
+## 🏅 Hacktoberfest & Open Source Badges
+
+Actively participated in **Hacktoberfest 2025**, contributing to open-source projects, collaborating through pull requests, and following community-driven development practices.
+
+<p align="center">
+  <a href="https://www.holopin.io/@utkarsh_singh_01">
+    <img src="https://holopin.io/api/user/board?user=utkarsh_singh_01" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧊 DogeshBro – 3D Web Experience
