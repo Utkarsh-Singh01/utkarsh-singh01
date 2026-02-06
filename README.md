@@ -1,47 +1,64 @@
-# Utkarsh Singh 👋
-### Frontend Engineer | MERN • Redux • 3D & Data Visualization
+<h1 align="center">Hey, I'm Utkarsh Singh 👋</h1>
+<h3 align="center">
+Frontend Engineer • MERN • Redux • 3D Web • UI Engineering
+</h3>
 
-I build **interactive, scalable, and production-ready web applications**  
-with a strong focus on **clean UI, state management, and real-world use cases**.
+<p align="center">
+I design and build <b>production-ready web interfaces</b><br/>
+where <b>performance, clarity, and user experience</b> come together.
+</p>
 
----
-
-## 🧠 About Me
-
-- Frontend-focused MERN developer  
-- Strong in **React, Redux, TailwindCSS**
-- Experience with **3D Web (Three.js)** and **Data Visualization (D3.js)**
-- Passionate about clean architecture & real product workflows
-
-> I believe great products are built at the intersection of **engineering clarity, performance, and user empathy**.
-
----
-
-## 🛠 Tech Stack (Live Skills)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-singh-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Utkarsh-Singh01">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:us6608818@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## 🏅 Hacktoberfest & Open Source Badges
+## 🧠 Engineer’s Snapshot
 
-Actively participated in **Hacktoberfest 2025**, contributing to open-source projects, collaborating through pull requests, and following community-driven development practices.
+I’m a **frontend-focused MERN engineer** who enjoys building  
+**real products**, not just UI mockups.
+
+What defines my work:
+- 🧩 Clean, scalable **React architectures**
+- ⚡ Predictable global state with **Redux**
+- 🎨 Pixel-polished & responsive UI
+- 🌐 Explorations in **3D & visual web experiences**
+- 🛠 Code that is readable, debuggable, and production-oriented
+
+> My philosophy:  
+> **Good UI doesn’t shout — it quietly earns trust.**
+
+---
+
+## 🛠 Core Skill Stack
+
+### Frontend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
+
+### Backend Fundamentals
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Developer Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🏅 Open Source & Hacktoberfest
 
 <p align="center">
   <a href="https://www.holopin.io/@utkarsh_singh_01">
@@ -49,47 +66,59 @@ Actively participated in **Hacktoberfest 2025**, contributing to open-source pro
   </a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🧊 DogeshBro – 3D Web Experience
-- Immersive 3D UI using **Three.js**
-- Interactive camera & animations
-- Performance-optimized rendering
-
-🔗 Live Demo: https://dogesh-bro.vercel.app  
-📂 Repo: https://github.com/Utkarsh-Singh01/dogeshbro-3d
+- ✅ Active **Hacktoberfest contributor**
+- ✅ Comfortable with large OSS codebases
+- ✅ Clean PRs, reviews & collaboration mindset
+- ✅ Experience working with community standards
 
 ---
 
-### 🎧 Glotify – Music Streaming App
-- Redux-based global playback state
-- Search, playlists & real-time controls
-- Fully responsive UI
+## 🚀 Selected Work
 
-🔗 Live Demo: https://glotify.vercel.app  
-📂 Repo: https://github.com/Utkarsh-Singh01/glotify
+### 🧊 DogeshBro — 3D Web Experience
+**Exploration of immersive web interfaces**
 
----
+- Three.js powered 3D environment
+- Interactive camera & smooth animations
+- Optimized rendering for real browsers
 
-### 🍽️ HelloBooks – Restaurant Accounting UI
-- Shift-based accounting system
-- Redux global state management
-- Real-time insights & inventory alerts
+🔗 Live: https://dogesh-bro.vercel.app  
+📂 Repo: https://github.com/Utkarsh-Singh01/dogeshbro-3d  
 
 ---
 
-## 🔮 What's Next?
+### 🎧 Glotify — Music Streaming UI
+**Frontend system design & state management**
 
-🔨 Building **production-ready applications**  
-📚 Advancing **full-stack expertise**  
-🤖 Exploring **DevOps integration**  
-🌐 Contributing to **open-source projects**
+- Redux-driven global playback state
+- Search, playlists & UI responsiveness
+- Built with scalability in mind
+
+🔗 Live: https://glotify.vercel.app  
+📂 Repo: https://github.com/Utkarsh-Singh01/glotify  
 
 ---
 
-## 🤝 Connect With Me
+### 🍽️ HelloBooks — Restaurant Accounting UI
+**Industry-focused product UI (Internship Assignment)**
+
+- Shift-based accounting workflows
+- Centralized Redux store
+- Dashboard-style data presentation
+
+---
+
+
+## 🔮 What I’m Focused On Next
+
+- 🔨 Shipping **production-grade applications**
+- 🧠 Deepening system-level frontend thinking
+- ⚙️ Exploring **DevOps & deployment pipelines**
+- 🌍 Increasing impact through **open source**
+
+---
+
+## 🤝 Let’s Connect
 
 - 💻 GitHub: https://github.com/Utkarsh-Singh01  
 - 💼 LinkedIn: https://www.linkedin.com/in/utkarsh-singh-engineer/  
@@ -98,7 +127,7 @@ Actively participated in **Hacktoberfest 2025**, contributing to open-source pro
 
 ---
 
-⭐ **If you find my projects helpful, please consider giving them a star!**  
-Thank you for visiting my profile — let’s create a better tomorrow with innovation and dedication. 🚀  
+⭐ If you find my work valuable, a follow or star truly helps.  
+Thanks for visiting — **let’s build thoughtful software.** 🚀  
 
-**Made with ❤️ by Utkarsh Singh**
+<b>Made with ❤️ by Utkarsh Singh</b>
