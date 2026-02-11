@@ -24,7 +24,7 @@ where <b>performance, clarity, and user experience</b> come together.
 
 ## 🧠 Engineer’s Snapshot
 
-I’m a **frontend-focused MERN engineer** who enjoys building  
+I’m a **frontend-focused engineer** who enjoys building  
 **real products**, not just UI mockups.
 
 What defines my work:
