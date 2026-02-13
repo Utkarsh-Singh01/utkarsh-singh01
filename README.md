@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Utkarsh Singh 👋</h1>
 <h3 align="center">
-Frontend Engineer • MERN • Redux • 3D Web • UI Engineering
+Frontend Engineer • FullStack • Redux • 3D Web • UI Engineering
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@ where <b>performance, clarity, and user experience</b> come together.
 
 ## 🧠 Engineer’s Snapshot
 
-I’m a **frontend-focused engineer** who enjoys building  
+I’m a **FullStack-focused engineer** who enjoys building  
 **real products**, not just UI mockups.
 
 What defines my work:
