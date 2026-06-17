@@ -165,16 +165,6 @@ An immersive 3D web experience built with real-time graphics, animations, lighti
 
 ---
 
-## 🏆 GitHub Trophy Room
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Utkarsh-Singh01&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
