@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+that+solve+real+problems;Full-Stack+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Gemini+AI;Open-Source+Contributor+%E2%80%A2+Google+Student+Ambassador;Still+Learning.+Still+Building.+Still+Growing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+that+solve+real+problems;Full-Stack+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Gemini+AI;Open-Source+Contributor+%E2%80%A2+Google+Student+Ambassador;Still+Learning.+Still+Building.+Still+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -49,26 +49,27 @@ I build modern web apps, AI-powered products, SaaS platforms, and interactive ex
 
 ## 🧑‍💻 Developer Snapshot
 
-<pre>
+```js
 const utkarsh = {
   role: "Full-Stack Engineer",
   location: "India 🇮🇳",
   focus: [
     "Production SaaS",
     "AI-Powered Web Apps",
+    "AI Interview Agents",
     "Open Source",
     "Modern Frontend Experiences"
   ],
   stack: {
     frontend: ["React.js", "Tailwind CSS", "JavaScript", "Framer Motion"],
     backend: ["Node.js", "Express.js", "MongoDB", "JWT"],
-    ai: ["Google Gemini AI", "Generative AI", "AI Automation"],
+    ai: ["Google Gemini AI", "Generative AI", "AI Agents", "AI Automation"],
     creative: ["Three.js", "GSAP", "WebGL"],
     tools: ["Git", "GitHub", "Firebase", "Stripe", "Vercel", "Render"]
   },
   mindset: "Enjoy the process. Build with purpose. Improve every day."
 };
-</pre>
+```
 
 ---
 
@@ -78,8 +79,7 @@ const utkarsh = {
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css,cpp,git,github,firebase,vercel,vite,figma&theme=dark" />
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Google%20Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
@@ -96,6 +96,30 @@ const utkarsh = {
 
 <table>
 <tr>
+<td width="50%">
+
+<h3 align="center">🎙️ YeInterew — AI Interview Agent</h3>
+
+<p align="center">
+An AI-powered interview preparation agent that simulates realistic interviews, asks role-based questions, evaluates answers, and helps candidates improve with actionable feedback.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agent-16A34A?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Utkarsh-Singh01">
+<img src="https://img.shields.io/badge/View%20Project-16A34A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
 <td width="50%">
 
 <h3 align="center">🧠 ExaamDostAI</h3>
@@ -120,7 +144,8 @@ AI-powered exam notes generator that creates exam-focused notes, revision points
 </p>
 
 </td>
-
+</tr>
+<tr>
 <td width="50%">
 
 <h3 align="center">🐶 DogeshBro</h3>
@@ -140,6 +165,29 @@ An immersive 3D web experience built with real-time graphics, animations, lighti
 <p align="center">
 <a href="https://dogesh-bro.vercel.app/">
 <img src="https://img.shields.io/badge/View%20Live%20Project-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">⚡ Production SaaS Foundations</h3>
+
+<p align="center">
+Reusable full-stack foundations for auth, dashboards, APIs, databases, payments, deployment, and scalable product engineering.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Utkarsh-Singh01">
+<img src="https://img.shields.io/badge/Explore%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -170,7 +218,6 @@ An immersive 3D web experience built with real-time graphics, animations, lighti
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Singh01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=22c55e&icon_color=22c55e&text_color=e5e7eb&bg_color=0d1117" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=Utkarsh-Singh01&theme=github-dark-blue&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&background=0D1117" />
 
 </div>
@@ -227,7 +274,7 @@ I believe open source is not just about code — it is about **learning, collabo
 
 | Area | Things I Build |
 |---|---|
-| AI Apps | Notes generators, automation tools, AI-powered dashboards |
+| AI Apps | Interview agents, notes generators, automation tools, AI-powered dashboards |
 | Full-Stack SaaS | Auth, payments, dashboards, APIs, databases |
 | Frontend Experiences | Animated UIs, responsive layouts, interactive flows |
 | 3D Web | Three.js scenes, scroll animations, creative web pages |
@@ -245,7 +292,8 @@ I believe open source is not just about code — it is about **learning, collabo
 
 </div>
 
-I believe real growth happens when you move from **watching tutorials** to **building real products**.  
+I believe real growth happens when you move from **watching tutorials** to **building real products**.
+
 Every production bug, deployment issue, CORS error, webhook failure, broken cookie, and failed push teaches something that no course can.
 
 ---
@@ -268,7 +316,7 @@ Every production bug, deployment issue, CORS error, webhook failure, broken cook
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Lets+build+something+amazing+together.;Still+learning.+Still+building.+Still+growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Lets+build+something+amazing+together.;Still+learning.+Still+building.+Still+growing" />
 
 </div>
 
