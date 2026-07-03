@@ -114,7 +114,7 @@ An AI-powered interview preparation agent that simulates realistic interviews, a
 </p>
 
 <p align="center">
-<a href="https://github.com/Utkarsh-Singh01/YeInterview">
+<a href="https://yeinterview-ai.onrender.com">
 <img src="https://img.shields.io/badge/View%20Project-16A34A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
